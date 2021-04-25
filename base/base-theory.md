@@ -3,6 +3,7 @@
 {Tip:
 
 * "Tips" should be removed from the final xxx-template-guide.
+
 }
 
 This "{doctype} theory document" provides reasoning, justifications, and links to research relevant to {doctype} documentation. It aims to empower authors to "think like a tech writer" and make documentation decisions backed by best practices.
@@ -75,7 +76,7 @@ Note: The terms "Must”, "Should”, and "May” should be interpreted as per [
 
 _TBD: The quality criteria list requires review and refinement._
 * _Further reading: [Tom Johnson's article on Measuring Doc Quality](https://idratherbewriting.com/learnapidoc/docapis_measuring_impact.html)._
-* _Further reading: Daniel Beck's Doc Audit work. TBD: Get the public link for this._
+* _Further reading: [Daniel Beck's Doc Audit work](https://github.com/google/opendocs/tree/main/audit)._
 
 ## Implementation strategy
 

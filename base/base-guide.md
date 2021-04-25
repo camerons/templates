@@ -42,11 +42,11 @@ Pros:
 
 Cons:
 * It is hard to account for:
-    * The range of technial expertise and reading speeds of readers.
+    * The range of technical expertise and reading speeds of readers.
     * The varying technical complexity of source material.
     * Multiple authors applying differing rules to assess reading time.
-* It potentially makes slow readers feel inadequate and demotivated.
-* Reading time is less appicable for some doctypes.
+* It potentially makes slow readers feel inadequate and unmotivated.
+* Reading time is less applicable for some doctypes.
 
 Guidelines for calculating reading time:
 * Base estimates on the least experienced and slowest target reader.
